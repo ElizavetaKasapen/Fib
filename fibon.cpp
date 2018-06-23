@@ -1,5 +1,5 @@
 ﻿/* 
-* @file fib.cpp 
+* @file fibon.cpp 
 * @author Касапен Е.В., гр. 515в
 * @date 23 июня 2018 
 * @brief Задание для летней практики 
